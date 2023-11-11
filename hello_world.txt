@@ -1,0 +1,2 @@
+Hello world! I am practicing using Git.
+It's going well.
